@@ -1,0 +1,10 @@
+﻿  createmoves.cpp
+  define.cpp
+  evaluate.cpp
+  gameover.cpp
+  makemove.cpp
+  printchessboard.cpp
+  searchmove.cpp
+  start.cpp
+  正在生成代码...
+  renju.vcxproj -> C:\Users\shaoj\Desktop\2020spring\人智导\作业\Project-1\code\renju\Debug\renju.exe
